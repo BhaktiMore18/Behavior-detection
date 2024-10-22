@@ -1,0 +1,1 @@
+This project implements a Behavior Detection machine learning model that aims to identify and classify human behaviors from video data. The model can be used for various applications such as anomaly detection, security surveillance, activity recognition, and more.
